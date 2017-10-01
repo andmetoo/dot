@@ -48,6 +48,7 @@ cask "bartender"
 cask "postico"
 cask "phpstorm"
 cask "fork"
+cask "imageoptim"
 ###Quick look plugins
 cask "betterzipql"
 cask "qlcolorcode"
