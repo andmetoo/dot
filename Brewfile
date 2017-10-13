@@ -52,6 +52,7 @@ cask "imageoptim"
 cask "redis-app"
 cask "cheatsheet"
 cask "vagrant"
+cask "parallels"
 ###Quick look plugins
 cask "betterzipql"
 cask "qlcolorcode"
