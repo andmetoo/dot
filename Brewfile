@@ -21,14 +21,6 @@ brew "go" #go programming language
 brew "dep" #dependencies tool for go
 brew "elixir" #elixir programming language
 brew "intltool"
-# brew "homebrew/php/php71
-# brew "homebrew/php/composer"
-# brew "homebrew/php/php71-amqp"
-# brew "homebrew/php/php71-memcached"
-# brew "homebrew/php/php71-grpc"
-# brew "homebrew/php/php71-intl"
-# brew "homebrew/php/php71-mcryp"
-# brew "homebrew/php/php71-xdebug"
 cask "betterzip"
 cask "google-chrome"
 cask "docker"

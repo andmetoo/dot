@@ -1,0 +1,15 @@
+# setup default applications dir
+cask_args appdir: "/Applications"
+# php
+tap "homebrew/homebrew-php", args: ["with-pear"]
+brew "gd"
+brew "curl"
+brew "intltool"
+brew "homebrew/php/php71"
+brew "homebrew/php/composer"
+brew "homebrew/php/php71-amqp"
+brew "homebrew/php/php71-memcached"
+brew "homebrew/php/php71-intl"
+brew "homebrew/php/php71-mcrypt"
+brew "homebrew/php/php71-xdebug"
+brew "homebrew/php/php71-redis"
